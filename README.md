@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# **MolSimTransport: A Python package designed for the efficient calculation of transport properties in molecular junctions**
+# **_MolSimTransport_: A Python package designed for the efficient calculation of transport properties in molecular junctions**
 
 ### **v1.0.3 Release Notes**
 
